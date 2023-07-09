@@ -21,7 +21,7 @@ const server = net.createServer((socket) => {
     Ignition?: number;
   }
   type ExtractedDataType = {
-    [eventId: string]: any[]; // change "any" to the type of the extracted items
+    [eventId: string]: any[]; 
   };
 
   const extractedData: ExtractedDataType = {
@@ -87,7 +87,7 @@ const server = net.createServer((socket) => {
 
             extractedData[eventId].unshift(extractedItem);
           } else if (eventId === 250) {
-            // Extract the relevant data and store it in an object
+            
             const extractedItem = {
               eventId: eventId,
               timestamp: avl_data.Timestamp,
@@ -99,7 +99,7 @@ const server = net.createServer((socket) => {
               trip: avl_data.IOelement.Elements["250"],
             };
 
-            // Add the extracted data to the array for this event type
+            
             extractedData[eventId].unshift(extractedItem);
           } else if (eventId === 255) {
             const extractedItem = {
@@ -113,7 +113,7 @@ const server = net.createServer((socket) => {
               OverSpeed: avl_data.IOelement.Elements["255"],
             };
 
-            // Add the extracted data to the array for this event type
+            
             extractedData[eventId].unshift(extractedItem);
           } else if (eventId === 0) {
             const extractedItem = {
