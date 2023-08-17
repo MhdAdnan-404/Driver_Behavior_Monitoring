@@ -47,15 +47,17 @@
 
 <p><Strong>The front end</Strong>, Previously i had used SWFIT which is IOS native langauge, but i wanted to learn something new, so i settled for Reacte Native, the advanatge of using Reacte native is the that its widely supported and there is alot of libraries that make it very easy to develop and application quickly, as well as it uses HTML for the UI elements and CSS for styling the elements which makes it infinitely easier, more over Reacte native when complied gives two files, one is for IOS and the other is for ANDRIOD so it saves alot of time if developing for both platforms.</p>
 
-<h2 align="center"> The Hardware </h2>
+<h2 align="left"> The Hardware </h2>
 <p>The system relies on TelTonika Device, FMC 130, This device is specifically made for this task, its built for monitoring all kinds of data and input from the vehicle, the device allows the user to preset some thersholds and parameters that determines when dose the device alert and under what conditions, as well as it sends location and speed based on a preset interval, the deivce can be connected to the nemours systems that are in the car and can display all sorts of data, the device comes with its own software for ease of programmability and deployment.</p>
 
 
 
 
 ## features
+<h3 align="left"> Speed </h3>
+<p>Determined by the intervals that are preset on the Teltonika device, a Message is sent to the appliation containing the speed and the locaion of the car </p>
 
-<h1>This is the featuers tab </h1>
+
 
 
 ## License
