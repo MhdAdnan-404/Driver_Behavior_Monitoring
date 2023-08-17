@@ -28,7 +28,8 @@
         
 ## About The Project
 
-![Screenshot 2023-07-02 233613 (1)](https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/22ab0d24-f803-4aa9-8e21-cd912a8d220d)
+
+![Screenshot 2023-07-02 233613](https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/35df06a2-30eb-4228-b976-dc0eb5133768 = 289.1x507.3 )
 
 
 
