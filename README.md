@@ -1,14 +1,10 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Driver Behavior Monitoring System</h3>
+  <h2 align="center">Driver Behavior Monitoring System</h2>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A system the monitors the behavior of the driver, the location of the car, the system enables customization for some thresholds, when broken, an alert will be sent out. 
   </p>
 </div>
 
@@ -28,9 +24,12 @@
         
 ## About The Project
 
-<p align="center">
+<p align="center" float="left">
 <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/d5d8ccde-25ad-496e-87cf-c41b3becc854" alt="drawing" width="300"/>
+<img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/1945bf47-146e-4728-adb1-b531798fdc8c" alt="drawing" width="300"/>
+<img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/f0657d2a-761c-4fd0-aff7-1559cd09a337" alt="drawing" width="300"/>
 </p>
+
 
 
 
