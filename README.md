@@ -51,7 +51,7 @@ Use the `BLANK_README.md` to get started.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="width: 50px; height: 50px; background-color: #ccc; border-radius: 50%; margin-right: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
+      <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="react" width="30" height="30"/>
     </div>
     <div style="flex: 1;">
       <p>This is the description for the icon.</p>
