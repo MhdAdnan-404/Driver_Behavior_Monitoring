@@ -50,12 +50,12 @@ Use the `BLANK_README.md` to get started.
 <p align="center"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/> </a> </p>
 
 <div>
-    <div>
-      <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="react" width="30" height="30"/>
-    </div>
   <div>
       <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="30" height="30"/>
     </div>
+   <div>
+      <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="react" width="30" height="30"/>
+    </div>****
     <div style="flex: 1;">
       <p>This is the description for the icon.</p>
       <p>You can write additional text here.</p>
