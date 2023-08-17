@@ -29,7 +29,7 @@
     <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/1945bf47-146e-4728-adb1-b531798fdc8c" alt="drawing" width="300"/>
   </div>
   <div >
-    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/f0657d2a-761c-4fd0-aff7-1559cd09a337" alt="drawing" width="550"/>
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/f0657d2a-761c-4fd0-aff7-1559cd09a337" alt="drawing" width="350"/>
   </div>
 </div>
 
