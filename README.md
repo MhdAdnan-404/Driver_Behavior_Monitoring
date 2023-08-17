@@ -23,12 +23,12 @@
 </details>
         
 ## About The Project
-<div>
-  <div float="left">
+<div display="flex">
+  <div flex: 1;>
     <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/d5d8ccde-25ad-496e-87cf-c41b3becc854" alt="drawing" width="300"/>
     <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/1945bf47-146e-4728-adb1-b531798fdc8c" alt="drawing" width="300"/>
   </div>
-  <div float="left" widht="50%">
+  <div >
     <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/f0657d2a-761c-4fd0-aff7-1559cd09a337" alt="drawing" width="550"/>
   </div>
 </div>
