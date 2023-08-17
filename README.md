@@ -29,7 +29,7 @@
 ## About The Project
 
 
-![Screenshot 2023-07-02 233613](https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/35df06a2-30eb-4228-b976-dc0eb5133768 = 289.1x507.3 )
+![Screenshot 2023-07-02 233613](https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/35df06a2-30eb-4228-b976-dc0eb5133768 | width =289.1, height=507.3 )
 
 
 
