@@ -53,4 +53,12 @@
 
 
 
+
+## License
+
+See `LICENSE.md` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
