@@ -28,7 +28,7 @@
         
 ## About The Project
 
-<img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/d5d8ccde-25ad-496e-87cf-c41b3becc854" alt="drawing" width="500"/>
+<img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/d5d8ccde-25ad-496e-87cf-c41b3becc854" alt="drawing" width="300"/>
 
 
 
