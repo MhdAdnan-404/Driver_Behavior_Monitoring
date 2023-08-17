@@ -45,7 +45,7 @@ Use the `BLANK_README.md` to get started.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Built With
+## Built With
 
 <p align="center"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/> </a> </p>
 
