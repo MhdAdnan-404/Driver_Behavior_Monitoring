@@ -28,7 +28,9 @@
         
 ## About The Project
 
-![Screenshot 2023-07-02 233613](https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/d9f86a0d-2364-4ce1-a79e-ccf19820e6b7){:height="100px" width="100px"}
+![Screenshot 2023-07-02 233613 (1)](https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/22ab0d24-f803-4aa9-8e21-cd912a8d220d)
+
+
 
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
