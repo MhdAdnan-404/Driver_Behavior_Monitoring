@@ -16,9 +16,8 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#features">Features</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
         
@@ -52,6 +51,11 @@
 <p>The system relies on TelTonika Device, FMC 130, This device is specifically made for this task, its built for monitoring all kinds of data and input from the vehicle, the device allows the user to preset some thersholds and parameters that determines when dose the device alert and under what conditions, as well as it sends location and speed based on a preset interval, the deivce can be connected to the nemours systems that are in the car and can display all sorts of data, the device comes with its own software for ease of programmability and deployment.</p>
 
 
+
+
+## features
+
+<h1>This is the featuers tab </h1>
 
 
 ## License
