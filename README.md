@@ -72,6 +72,22 @@
 
 
 
+  <h3 align="left"> Speed </h3>
+  <p align="center">
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/f9124275-bd3f-4d3e-965c-29503511e22e" alt="drawing" width="250"/>
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/5114996d-bad0-47db-8336-d968d6aa3a82" alt="drawing" width="250"/>
+  <p>
+ 
+</div>
+  <p>Determined by the intervals that are <Strong>preset</Strong> on the Teltonika device, a Message is sent to the application containing the speed and the locaion of the car at the pre-determined interval</p>
+
+  <p>The graph shows the speed of the car over the time of the trip, as well as when <Strong>hovring</Strong> over any point, it will show the time and the speed at that point in the graph </p>
+
+  <p>Additionally when clicking on the points on the map, it will show the time at which that speed was recorded</p>
+
+
+
+
 
 ## License
 
