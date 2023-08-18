@@ -33,7 +33,7 @@
 
 <h4>
   <p>
-    The Backbone of the system is FMC 130 Teltonika device, this device was made to read data from vehicles as well as send specific GPS coordinates of the car, the device can be connected to the car and provide information about the car and some sensors in the car, in addition, the device has GPS and an accelerometer, which enables real time location as well as G-Force measurements, The idea for the system is to be put in industries that require fleet management in order to minmize alot of the running costs, The system works by utalizing a server that is running on google cloud service that relays all of the information that is sent from the device to the application.  
+    The Backbone of the system is FMC 130 Teltonika device, this device was made to read data from vehicles as well as send specific GPS coordinates of the car, the device can be connected to the car and provide information about the car and some sensors in the car, in addition, the device has GPS and an accelerometer, which enables real time location as well as G-Force measurements, This is utilized in the system for measuring Aggressive acceleration as well as Aggressive braking , The idea for the system is to be put in industries that require fleet management in order to minmize alot of the running costs, The system works by utalizing a server that is running on google cloud service that relays all of the information that is sent from the device to the application.  
   </p>
 </h4>
 
@@ -117,7 +117,7 @@
   <p>
 
 </div>
-  <p>Another feature is Detecting Speeding, Determined by the preset Parameters on the Device, if the car exceeds the speed that is set, This will trigger a message to be send to the application through the server, the message will incluce the speed and the location of the car at that time </p>
+  <p>Another  </p>
 
   <p> The graph shows all of the times the determined speed was broken in the form of a graph, hovering over the graph will show that value of that point as well as the time at which that speed was recored</p>
 
