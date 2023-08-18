@@ -87,6 +87,21 @@
 
   <p>Additionally when clicking on the points on the map, it will show the time at which that speed was recorded</p>
 
+-----------
+
+  <h3 align="left"> Speeding</h3>
+  <p align="center">
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/378c16b3-318d-43aa-b35f-2a3f47d1830e" alt="drawing" width="265"/>
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/cc166e5f-1560-4317-a776-d425399ab9b0" alt="drawing" width="250"/>
+  <p>
+
+</div>
+  <p>Another feature is Detecting Speeding, Determined by the preset Parameters on the Device, if the car exceeds the speed that is set, This will trigger a message to be send to the application through the server, the message will incluce the speed and the location of the car at that time </p>
+
+  <p> The graph shows all of the times the determined speed was broken in the form of a graph, hovering over the graph will show that value of that point as well as the time at which that speed was recored</p>
+
+  <p>Additionally when clicking on the points on the map, it will show the time at which that speed was recorded</p>
+
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
