@@ -98,11 +98,11 @@
 
 
 </div>
-  <p>Another feature is Detecting Speeding, Determined by the preset Parameters on the Device, if the car exceeds the speed that is set, This will trigger a message to be send to the application through the server, the message will incluce the speed and the location of the car at that time </p>
+  <p>One of the main featuers that has a significant impact on the score of the driver is Aggressive Acceleration, The device allows two types of ways to measure Aggressive Acceleration, Either through G-Force, or through the speed Acceleration of the car </p>
 
-  <p> The graph shows all of the times the determined speed was broken in the form of a graph, hovering over the graph will show that value of that point as well as the time at which that speed was recored</p>
+  <p> The method that was chosen was the G-Force Acceleration, Like the speeding, The app shows all of the instances that the preset thershold was broken, and it showes it in a graph, and the user can hover over and drag over the graph and this shows the value of the Acceleration as well as the time, Additionally the instance as also shown on the map  </p>
 
-  <p>Additionally when clicking on the points on the map, it will show the time at which that speed was recorded</p>
+  <p>Additionally when clicking on the points on the map, it will show the time at which that threshold was broken</p>
 
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
