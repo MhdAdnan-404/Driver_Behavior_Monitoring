@@ -117,11 +117,11 @@
   <p>
 
 </div>
-  <p>Another  </p>
+  <p>Another Measure Featuer of the system is detecting any aggresive braking, A threshold that is preset on device as well as the accelerometer, a trigger will be sent to the server when the threshold is broken, Similarly all of the instances are displayed in graph form as well as on the map</p>
 
-  <p> The graph shows all of the times the determined speed was broken in the form of a graph, hovering over the graph will show that value of that point as well as the time at which that speed was recored</p>
+  <p> The graph shows all of the times when a trigger was sent to the server from the device, hovering over the graph shows the specific value as well as the time at which that value was recored  </p>
 
-  <p>Additionally when clicking on the points on the map, it will show the time at which that speed was recorded</p>
+  <p>Additionally when clicking on the points on the map, it will show the time at which that value was recorded</p>
 
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
