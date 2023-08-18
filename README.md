@@ -22,16 +22,14 @@
 </details>
         
 ## About The Project
-<div>
+
 
 <p align="left">
-  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/d5d8ccde-25ad-496e-87cf-c41b3becc854" alt="drawing" width="100"/>
-  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/1945bf47-146e-4728-adb1-b531798fdc8c" alt="drawing" width="100"/>
+  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/d5d8ccde-25ad-496e-87cf-c41b3becc854" alt="drawing" width="300"/>
+  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/1945bf47-146e-4728-adb1-b531798fdc8c" alt="drawing" width="300"/>
 </p>
-<p align ="right">
-  asldfhkjashdlkfhasdkhfhdsafhlkjashdlfkjhasdkjf
-</p>
-</div>
+
+
 
 <h4>
   <p>
@@ -60,11 +58,13 @@
 
 ## features
 <h3 align="left"> Speed </h3>
-
-<p align="center">
-  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/f9124275-bd3f-4d3e-965c-29503511e22e" alt="drawing" width="300"/>
-  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/5114996d-bad0-47db-8336-d968d6aa3a82" alt="drawing" width="300"/>
+<div>
+<p align="left">
+  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/f9124275-bd3f-4d3e-965c-29503511e22e" alt="drawing" width="200"/>
+  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/5114996d-bad0-47db-8336-d968d6aa3a82" alt="drawing" width="200"/>
 </p>
+  <p align ="right">asdasdfsd afgsdfasdfaSDFASDFSDFA</p>
+</div>
 <p>Determined by the intervals that are preset on the Teltonika device, a Message is sent to the appliation containing the speed and the locaion of the car </p>
 
 
