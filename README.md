@@ -1,7 +1,5 @@
-
+## Project
 <br />
-
-## About The Project
 
 <div align="center">
   <h2 align="center">Driver Behavior Monitoring System</h2>
@@ -41,7 +39,7 @@
 </h4>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Project">back to top</a>)</p>
 
 
 ## Built With
@@ -58,7 +56,7 @@
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Project">back to top</a>)</p>
 
 
 ## Features
@@ -108,7 +106,7 @@
   <p>Additionally when clicking on the points on the map, it will show the time at which that threshold was broken</p>
 
 
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right">(<a href="#Project">back to top</a>)</p>
 
   -----------
 
@@ -127,7 +125,7 @@
   <p>Additionally when clicking on the points on the map, it will show the time at which that value was recorded</p>
 
 
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right">(<a href="#Project">back to top</a>)</p>
 
 
 
@@ -135,7 +133,7 @@
 
 See `LICENSE.md` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Project">back to top</a>)</p>
 
 
 
