@@ -92,7 +92,7 @@
   <h3 align="left"> Aggressive Acceleration</h3>
   <p align="center">
     <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/d29be5f3-7fff-4e2e-8ef5-9da8c4171767" alt="drawing" width="265"/>
-    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/696a0c1d-ddee-4c11-9ef2-b923d69ed34e" alt="drawing" width="250"/>
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/696a0c1d-ddee-4c11-9ef2-b923d69ed34e" alt="drawing" width="265"/>
   <p>
 
 
