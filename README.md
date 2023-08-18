@@ -55,6 +55,11 @@
 
 ## features
 <h3 align="left"> Speed </h3>
+
+<p align="center">
+  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/f9124275-bd3f-4d3e-965c-29503511e22e" alt="drawing" width="300"/>
+  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/5114996d-bad0-47db-8336-d968d6aa3a82" alt="drawing" width="300"/>
+</p>
 <p>Determined by the intervals that are preset on the Teltonika device, a Message is sent to the appliation containing the speed and the locaion of the car </p>
 
 
