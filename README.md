@@ -79,7 +79,7 @@
   <p>
 
 </div>
-  <p>Determined by the preset Parameters on the Device, if the car exceeds the speed that is set, This will trigger a message to be send to the application through the server, the message will incluce the speed and the location of the car at that time </p>
+  <p>Another feature is Detecting Speeding, Determined by the preset Parameters on the Device, if the car exceeds the speed that is set, This will trigger a message to be send to the application through the server, the message will incluce the speed and the location of the car at that time </p>
 
   <p> The graph shows all of the times the determined speed was broken in the form of a graph, hovering over the graph will show that value of that point as well as the time at which that speed was recored</p>
 
