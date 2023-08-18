@@ -77,7 +77,6 @@
     <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/378c16b3-318d-43aa-b35f-2a3f47d1830e" alt="drawing" width="265"/>
     <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/cc166e5f-1560-4317-a776-d425399ab9b0" alt="drawing" width="250"/>
   <p>
- ![66](https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/cc166e5f-1560-4317-a776-d425399ab9b0)
 
 </div>
   <p>Determined by the intervals that are <Strong>preset</Strong> on the Teltonika device, a Message is sent to the application containing the speed and the locaion of the car at the pre-determined interval</p>
