@@ -89,11 +89,13 @@
 
 -----------
 
-  <h3 align="left"> Speeding</h3>
+  <h3 align="left"> Aggressive Acceleration</h3>
   <p align="center">
-    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/378c16b3-318d-43aa-b35f-2a3f47d1830e" alt="drawing" width="265"/>
-    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/cc166e5f-1560-4317-a776-d425399ab9b0" alt="drawing" width="250"/>
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/d29be5f3-7fff-4e2e-8ef5-9da8c4171767" alt="drawing" width="265"/>
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/696a0c1d-ddee-4c11-9ef2-b923d69ed34e" alt="drawing" width="250"/>
   <p>
+
+
 
 </div>
   <p>Another feature is Detecting Speeding, Determined by the preset Parameters on the Device, if the car exceeds the speed that is set, This will trigger a message to be send to the application through the server, the message will incluce the speed and the location of the car at that time </p>
