@@ -64,7 +64,9 @@
   <p>
  
 </div>
-  <p>Determined by the intervals that are preset on the Teltonika device, a Message is sent to the appliation containing the speed and the locaion of the car </p>
+  <p>Determined by the intervals that are <Strong>preset</Strong> on the Teltonika device, a Message is sent to the application containing the speed and the locaion of the car at the pre-determined interval</p>
+
+  <p>The graph shows the speed of the car over the time of the trip, as well as when <Strong>hovring</Strong> over any point, it will show the time and the speed at that point in the graph </p>
 
 
 
