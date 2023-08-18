@@ -1,8 +1,8 @@
-## Project
+
 <br />
 
 <div align="center">
-  <h2 align="center">Driver Behavior Monitoring System</h2>
+  <h2 align="center">## Driver Behavior Monitoring System</h2>
 
   <p align="center">
     A system the monitors the behavior of the driver, the location of the car, the system enables customization for some thresholds, when broken, an alert will be sent out. 
