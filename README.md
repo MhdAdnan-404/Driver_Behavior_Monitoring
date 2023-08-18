@@ -70,7 +70,7 @@
 
   <p>Additionally when clicking on the points on the map, it will show the time at which that speed was recorded</p>
 
-
+-----------
 
   <h3 align="left"> Speed </h3>
   <p align="center">
