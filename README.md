@@ -68,6 +68,8 @@
 
   <p>The graph shows the speed of the car over the time of the trip, as well as when <Strong>hovring</Strong> over any point, it will show the time and the speed at that point in the graph </p>
 
+  <p>Additionally when clicking on the points on the map, it will show the time at which that speed was recorded</p>
+
 
 
 
