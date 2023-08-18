@@ -55,6 +55,8 @@
 
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Features
 <h3 align="left"> Speed </h3>
@@ -86,6 +88,9 @@
   <p>Additionally when clicking on the points on the map, it will show the time at which that speed was recorded</p>
 
 
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## License
 
 See `LICENSE.md` for more information.
@@ -93,4 +98,4 @@ See `LICENSE.md` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
