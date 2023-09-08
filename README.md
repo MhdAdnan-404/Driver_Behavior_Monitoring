@@ -84,8 +84,8 @@
 
   <h3 align="left"> Speeding</h3>
   <p align="center">
-    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/378c16b3-318d-43aa-b35f-2a3f47d1830e" alt="drawing" width="250"/>
-    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./assets/109319994/cc166e5f-1560-4317-a776-d425399ab9b0" alt="drawing" width="270"/>
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./blob/main/Photos/3.png" alt="drawing" width="250"/>
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./blob/main/Photos/8.png" alt="drawing" width="250"/>
   <p>
 
 </div>
