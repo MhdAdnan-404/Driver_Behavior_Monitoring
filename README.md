@@ -28,7 +28,7 @@
 <p align="center">
   
   <img src="https://github.com/404dn/Driver_Behavior_Monitoring./blob/main/Photos/Screenshot%202023-07-02%20233613%20(1).png" alt="drawing" width="300"/>
-  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./blob/main/Photos/Screenshot%202023-07-03%20032324.png" alt="drawing" width="315"/>
+  <img src="https://github.com/404dn/Driver_Behavior_Monitoring./blob/main/Photos/Screenshot%202023-07-03%20032324.png" alt="drawing" width="317"/>
 </p>
 
 
