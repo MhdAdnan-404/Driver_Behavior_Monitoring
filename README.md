@@ -70,7 +70,7 @@
 <h3 align="left"> Speed </h3>
   <p align="center">
     <img src="https://github.com/404dn/Driver_Behavior_Monitoring./blob/main/Photos/2.png" alt="drawing" width="250"/>
-    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./blob/main/Photos/Screenshot%202023-07-03%20032324.png" alt="drawing" width="250"/>
+    <img src="https://github.com/404dn/Driver_Behavior_Monitoring./blob/main/Photos/Screenshot%202023-07-03%20032324.png" alt="drawing" width="270"/>
   <p>
  
 </div>
