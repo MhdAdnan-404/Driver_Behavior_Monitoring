@@ -54,6 +54,7 @@
 
 <h2 align="left"> The Hardware </h2>
 
+
 <p align="center">
 <img src="https://github.com/404dn/Driver_Behavior_Monitoring./blob/main/Photos/Screenshot%202023-07-03%20033036.png" alt="drawing" width="200"/>
 </p>
