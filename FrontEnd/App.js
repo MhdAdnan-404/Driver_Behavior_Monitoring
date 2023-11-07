@@ -5,9 +5,8 @@ import {
   Text,
   View,
   StatusBar,
-  FlatList,
 } from "react-native";
-import React, { useState, useRef, useMemo, useEffect } from "react";
+import React, { useState, useRef, useMemo } from "react";
 
 import CircleProgress from "./components/CircularProgess";
 import ListItem from "./components/ListItem";
@@ -22,6 +21,7 @@ import {
 import WithNavigator from "./components/TabNavigator";
 
 import { NavigationContainer } from "@react-navigation/native";
+import { GestureHandlerRootView } from "react-native-gesture-handler";
 import Example from "./components/Chart";
 
 function invokeHaptic() {
@@ -46,130 +46,132 @@ export default function Page() {
   };
 
   return (
-    <NavigationContainer>
-      <BottomSheetModalProvider>
-        <SafeAreaView style={styles.container}>
-          <StatusBar barStyle="dark-content" />
-          <Text style={styles.text}>Driver Score</Text>
-          <View style={{ width: "100%", height: "35%" }}>
+    <GestureHandlerRootView style={{ flex: 1 }}>
+      <NavigationContainer>
+        <BottomSheetModalProvider>
+          <SafeAreaView style={styles.container}>
+            <StatusBar barStyle="dark-content" />
+            <Text style={styles.text}>Driver Score</Text>
+            <View style={{ width: "100%", height: "35%" }}>
+              <ScrollView
+                showsHorizontalScrollIndicator={false}
+                pagingEnabled={true}
+                horizontal={true}
+              >
+                {/* OverAll Score View */}
+                <View style={styles.hScrollView}>
+                  <CenteredBlock
+                    secProb={<Text style={styles.text}>Overall Score</Text>}
+                    myProb={<CircleProgress progress={72} />}
+                    touchableDisabled={true}
+                  />
+                </View>
+
+                {/* ChartView */}
+                <View style={styles.hScrollView}>
+                  <CenteredBlock touchableDisabled={true} myProb={<Graph />} />
+                </View>
+              </ScrollView>
+            </View>
+
+            <Text style={styles.text}>Scoring Factors</Text>
+
             <ScrollView
-              showsHorizontalScrollIndicator={false}
-              pagingEnabled={true}
-              horizontal={true}
+              showsVerticalScrollIndicator={false}
+              contentContainerStyle={styles.scrollContainer}
+              style={styles.scrollView}
             >
-              {/* OverAll Score View */}
-              <View style={styles.hScrollView}>
-                <CenteredBlock
-                  secProb={<Text style={styles.text}>Overall Score</Text>}
-                  myProb={<CircleProgress progress={72} />}
-                  touchableDisabled={true}
+              <View>
+                <ListItem
+                  onPress={() => {
+                    handlePresentModalPress(2531), invokeHaptic();
+                    setTitle("Aggressive Acceleration");
+                    setShowNavigationBar(true);
+                  }}
+                  title={"Aggressive Acceleration"}
+                  progress={93}
                 />
               </View>
 
-              {/* ChartView */}
-              <View style={styles.hScrollView}>
-                <CenteredBlock touchableDisabled={true} myProb={<Graph />} />
+              <View>
+                <ListItem
+                  onPress={() => {
+                    handlePresentModalPress(2532), invokeHaptic();
+                    setTitle("Aggressive Braking");
+                    setShowNavigationBar(true);
+                  }}
+                  title={"Aggressive Braking"}
+                  progress={42}
+                />
+              </View>
+
+              <View>
+                <ListItem
+                  onPress={() => {
+                    handlePresentModalPress(255), invokeHaptic();
+                    setTitle("Speeding");
+                    setShowNavigationBar(true);
+                  }}
+                  title={"Speeding"}
+                  progress={57}
+                />
+              </View>
+
+              <View>
+                <ListItem
+                  onPress={() => {
+                    handlePresentModalPress(0), invokeHaptic();
+                    setTitle("Speed");
+                    setShowNavigationBar(true);
+                  }}
+                  title={"Speed"}
+                  progress={83}
+                />
+              </View>
+
+              <View>
+                <ListItem
+                  onPress={() => {
+                    handlePresentModalPress(240), invokeHaptic();
+                    setTitle("Economical driving");
+                    setShowNavigationBar(false);
+                  }}
+                  title={"Economical driving"}
+                  progress={65}
+                />
+              </View>
+
+              <View>
+                <ListItem
+                  onPress={() => {
+                    handlePresentModalPress(230), invokeHaptic();
+                    setTitle("Late Night Driving");
+                    setShowNavigationBar(false);
+                  }}
+                  title={"Late Night Driving"}
+                  progress={10}
+                />
               </View>
             </ScrollView>
-          </View>
+          </SafeAreaView>
 
-          <Text style={styles.text}>Scoring Factors</Text>
-
-          <ScrollView
-            showsVerticalScrollIndicator={false}
-            contentContainerStyle={styles.scrollContainer}
-            style={styles.scrollView}
+          <BottomSheetModal
+            ref={bottomSheetModalRef}
+            index={0}
+            snapPoints={snapPoints}
+            style={styles.bottomSheet}
           >
-            <View>
-              <ListItem
-                onPress={() => {
-                  handlePresentModalPress(2531), invokeHaptic();
-                  setTitle("Aggressive Acceleration");
-                  setShowNavigationBar(true);
-                }}
-                title={"Aggressive Acceleration"}
-                progress={93}
-              />
-            </View>
+            {showNavigationBar ? (
+              <WithNavigator title={title} selectedIndex={selectedItemIndex} />
+            ) : (
+              <Example title={title} index={selectedItemIndex} />
+            )}
 
-            <View>
-              <ListItem
-                onPress={() => {
-                  handlePresentModalPress(2532), invokeHaptic();
-                  setTitle("Aggressive Braking");
-                  setShowNavigationBar(true);
-                }}
-                title={"Aggressive Braking"}
-                progress={42}
-              />
-            </View>
-
-            <View>
-              <ListItem
-                onPress={() => {
-                  handlePresentModalPress(255), invokeHaptic();
-                  setTitle("Speeding");
-                  setShowNavigationBar(true);
-                }}
-                title={"Speeding"}
-                progress={57}
-              />
-            </View>
-
-            <View>
-              <ListItem
-                onPress={() => {
-                  handlePresentModalPress(0), invokeHaptic();
-                  setTitle("Speed");
-                  setShowNavigationBar(true);
-                }}
-                title={"Speed"}
-                progress={83}
-              />
-            </View>
-
-            <View>
-              <ListItem
-                onPress={() => {
-                  handlePresentModalPress(240), invokeHaptic();
-                  setTitle("Economical driving");
-                  setShowNavigationBar(false);
-                }}
-                title={"Economical driving"}
-                progress={65}
-              />
-            </View>
-
-            <View>
-              <ListItem
-                onPress={() => {
-                  handlePresentModalPress(230), invokeHaptic();
-                  setTitle("Late Night Driving");
-                  setShowNavigationBar(false);
-                }}
-                title={"Late Night Driving"}
-                progress={10}
-              />
-            </View>
-          </ScrollView>
-        </SafeAreaView>
-
-        <BottomSheetModal
-          ref={bottomSheetModalRef}
-          index={0}
-          snapPoints={snapPoints}
-          style={styles.bottomSheet}
-        >
-          {showNavigationBar ? (
-            <WithNavigator title={title} selectedIndex={selectedItemIndex} />
-          ) : (
-            <Example title={title} index={selectedItemIndex} />
-          )}
-
-          {/* put with navigator and with out navigator bar here */}
-        </BottomSheetModal>
-      </BottomSheetModalProvider>
-    </NavigationContainer>
+            {/* put with navigator and with out navigator bar here */}
+          </BottomSheetModal>
+        </BottomSheetModalProvider>
+      </NavigationContainer>
+    </GestureHandlerRootView>
   );
 }
 
